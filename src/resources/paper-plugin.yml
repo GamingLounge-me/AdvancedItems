@@ -1,0 +1,7 @@
+name: AdvancedItems
+version: '${version}' 
+main: me.gaminglounge.AdvancedItems.AdvancedItems
+description: 
+api-version: '1.21' 
+authors: 
+  - "NAME" 
